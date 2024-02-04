@@ -1,0 +1,2 @@
+# pyday
+Python training notebooks
